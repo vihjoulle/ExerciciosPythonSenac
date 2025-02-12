@@ -1,0 +1,49 @@
+Intermediário
+11.	Peça ao usuário uma frase e conte quantas vogais há nela.
+12.	Solicite um número e exiba se ele é primo ou não.
+13.	Gere uma lista de 10 números aleatórios e exiba o maior e o menor número.
+14.	Peça ao usuário uma palavra e exiba se ela é um palíndromo.
+15.	Solicite um número inteiro e converta para binário sem usar funções prontas.
+16.	Peça ao usuário um número e exiba a sequência de Fibonacci até esse número.
+17.	Solicite ao usuário uma frase e exiba a quantidade de palavras que ela contém.
+18.	Leia um número inteiro e informe se ele é um quadrado perfeito.
+19.	Peça uma data no formato "DD/MM/AAAA" e exiba o dia, mês e ano separadamente.
+20.	Construa um programa que sorteia um número entre 1 e 100 e permita que o usuário tente adivinhar.
+________________________________________
+Intermediário-Avançado
+21.	Peça uma lista de números e exiba os números ordenados sem usar .sort().
+22.	Crie um sistema de cadastro de usuários armazenando nome e idade em um dicionário.
+23.	Desenvolva um programa que simule um caixa eletrônico com opções de saque, depósito e saldo.
+24.	Crie um jogo de pedra, papel e tesoura contra o computador.
+25.	Leia um arquivo .txt e conte quantas palavras há nele.
+26.	Desenvolva um programa que calcule o fatorial de um número usando recursão.
+27.	Crie um algoritmo que gere todas as combinações possíveis de uma senha de 4 dígitos.
+28.	Faça um programa que recebe um CPF e valide se ele é válido ou não.
+29.	Desenvolva um sistema que armazena e gerencia tarefas pendentes.
+30.	Crie uma função que receba um número e verifique se ele pertence à sequência de Fibonacci.
+________________________________________
+Avançado
+31.	Desenvolva um algoritmo que resolva um Sudoku 9x9.
+32.	Implemente o algoritmo de ordenação Merge Sort.
+33.	Escreva um programa que resolva um labirinto representado por uma matriz.
+34.	Crie um chatbot simples que interage com o usuário usando respostas pré-programadas.
+35.	Desenvolva um analisador de textos que exiba as palavras mais frequentes em um documento.
+36.	Implemente um jogo da forca, permitindo que o usuário jogue contra o programa.
+37.	Crie um sistema de login e senha usando hashing para armazenar as senhas.
+38.	Desenvolva um simulador de fila de banco usando a estrutura de fila (queue).
+39.	Crie um algoritmo que simule o jogo da velha entre dois jogadores.
+40.	Implemente uma árvore binária de busca e permita inserção e busca de elementos.
+________________________________________
+Desafios para especialistas
+41.	Crie um programa que implemente o algoritmo A* para encontrar o menor caminho em um mapa.
+42.	Desenvolva um bot que acesse um site e extraia informações automaticamente (web scraping).
+43.	Implemente uma IA que jogue contra o usuário no jogo da velha.
+44.	Escreva um programa que detecte faces em imagens usando OpenCV.
+45.	Desenvolva um analisador sintático para uma linguagem de programação simples.
+46.	Crie um algoritmo que resolva o problema do caixeiro viajante.
+47.	Implemente uma rede neural simples para classificar imagens do dataset MNIST.
+48.	Desenvolva um simulador de mercado de ações que preveja tendências.
+49.	Crie um sistema de recomendação de produtos baseado no histórico de compras do usuário.
+50.	Desenvolva um sistema de reconhecimento de voz simples usando Python.
+________________________________________
+
