@@ -1,8 +1,8 @@
-QtdNotas = input("Quantas notas você quer inserir?")
+QtdNotas = int(input("Quantas notas você quer inserir? "))
 
 soma = 0
-for n_nota_atual in QtdNotas:
-    nota = input("Insira a nota ")
+for n_nota_atual in range(QtdNotas):
+    nota = float(input("Insira a nota "))
     soma = soma + nota
 
 media = soma / QtdNotas
