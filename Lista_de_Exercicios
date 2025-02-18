@@ -47,3 +47,50 @@ Desafios para especialistas
 50.	Desenvolva um sistema de reconhecimento de voz simples usando Python.
 ________________________________________
 
+Aqui estão **30 exercícios de funções em Python**, organizados do **iniciante ao avançado**:
+
+---
+
+## 🔹 **Nível Iniciante** (1-10)
+1. **Função sem argumentos**: Crie uma função `saudacao()` que imprime "Olá, mundo!" e a chame.
+2. **Função com um argumento**: Crie uma função `dobro(n)` que retorna o dobro de um número.
+3. **Função com dois argumentos**: Faça uma função `soma(a, b)` que retorna a soma de dois números.
+4. **Função com retorno**: Crie uma função `quadrado(x)` que retorna o quadrado de um número.
+5. **Parâmetros padrão**: Modifique `saudacao(nome="Visitante")` para receber um nome opcional e imprimir "Olá, Nome!".
+6. **Função que imprime uma lista**: Crie uma função `imprimir_lista(lista)` que recebe uma lista e imprime cada elemento.
+7. **Função que verifica se um número é par**: Faça `eh_par(n)` que retorna `True` se o número for par e `False` caso contrário.
+8. **Função com `return` vs `print`**: Crie `diferenca(a, b)` que retorna `a - b`. Teste a diferença entre `return` e `print`.
+9. **Função que converte temperatura**: Crie `celsius_para_fahrenheit(c)` que converte graus Celsius para Fahrenheit.
+10. **Uso de `*args`**: Faça uma função `somar_tudo(*numeros)` que aceita múltiplos argumentos e retorna a soma deles.
+
+---
+
+## 🔹 **Nível Intermediário** (11-20)
+11. **Função recursiva**: Implemente `fatorial(n)` que calcula o fatorial de um número.
+12. **Função com `**kwargs`**: Crie `exibir_info(**dados)` que recebe e imprime informações como nome e idade.
+13. **Função que inverte uma string**: Faça `inverter_string(s)` que retorna uma string invertida.
+14. **Função que encontra o maior número**: Crie `maximo(a, b, c)` que retorna o maior entre três números.
+15. **Função com listas**: Faça `soma_lista(lista)` que soma todos os elementos de uma lista.
+16. **Função que conta vogais**: Implemente `contar_vogais(texto)` que conta vogais em uma string.
+17. **Função que retorna múltiplos valores**: Faça `operacoes_basicas(a, b)` que retorna soma, subtração, multiplicação e divisão.
+18. **Função que remove duplicatas**: Crie `remover_duplicatas(lista)` que remove elementos repetidos de uma lista.
+19. **Função que encontra números primos**: Faça `eh_primo(n)` que verifica se um número é primo.
+20. **Uso de lambda functions**: Escreva `dobro_lambda = lambda x: x * 2` e teste.
+
+---
+
+## 🔹 **Nível Avançado** (21-30)
+21. **Gerador de números pares**: Implemente `pares(n)` que gera os primeiros `n` números pares usando `yield`.
+22. **Função decoradora**: Crie um decorador `tempo_execucao` que mede o tempo de execução de uma função.
+23. **Memoization com dicionário**: Faça `fibonacci(n, memo={})` que usa memoization para calcular Fibonacci.
+24. **Função que gera senhas aleatórias**: Implemente `gerar_senha(tamanho)` que gera uma senha aleatória de `tamanho` caracteres.
+25. **Ordenação personalizada**: Use `sorted(lista, key=funcao)` para ordenar uma lista de tuplas `(nome, idade)` por idade.
+26. **Função que retorna outra função**: Faça `multiplicador(n)` que retorna uma função que multiplica por `n`.
+27. **Módulos e importações**: Crie um módulo `matematica.py` com `soma()`, `multiplicacao()`, e importe-o em outro arquivo.
+28. **Função que manipula arquivos**: Implemente `ler_arquivo(nome)` que lê e imprime o conteúdo de um arquivo.
+29. **Expressões Regulares**: Crie `validar_email(email)` que verifica se um email é válido usando regex.
+30. **Função que usa API**: Implemente `obter_dados(url)` que faz uma requisição HTTP e retorna os dados em JSON.
+
+---
+
+Se precisar de soluções para algum exercício ou quiser adaptá-los ao seu nível de estudo, me avise! 🚀
